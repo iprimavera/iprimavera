@@ -6,7 +6,10 @@
 
 ###
 
-<p align="left">I'm Ivan from Spain<br><br>- 🌱 I’m currently learning **PowerShell**<br><br>- 👨‍💻 All of my projects are available at [iprimavera.github.io](iprimavera.github.io)<br><br>- 📫 How to reach me **elsprimavera55@gmail.com**</p>
+I'm Ivan from Spain
+- 🌱 I’m currently learning **PowerShell**
+- - 👨‍💻 All of my projects are available at [iprimavera.github.io](iprimavera.github.io)
+- 📫 How to reach me **elsprimavera55@gmail.com**
 
 ###
 
