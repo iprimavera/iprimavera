@@ -7,7 +7,7 @@
 ###
 
 I'm Ivan from Spain
-- 🌱 I’m currently learning **PowerShell**
+- 🌱 I’m currently learning **SQL**
 - 👨‍💻 All of my projects are available at [iprimavera.github.io](https://iprimavera.github.io)
 - 📫 How to reach me **elsprimavera55@gmail.com**
 
