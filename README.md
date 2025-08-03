@@ -8,7 +8,7 @@
 
 I'm Ivan from Spain
 - 🌱 I’m currently learning **Computer Architecture**
-- 👨‍💻 All of my projects are available at [iprimavera.github.io](https://iprimavera.github.io)
+- 👨‍💻 here is my web: [iprimavera.github.io](https://iprimavera.github.io)
 - 📫 How to reach me **elsprimavera55@gmail.com**
 
 ###
