@@ -1,57 +1,18 @@
-<h1 align="center">hey there 👋</h1>
+# 💫 About Me:
+I'm Ivan from Spain<br><br>    🌱 I’m currently learning Computer Architecture<br>    👨‍💻 here is my web: iprimavera.github.io<br>    📫 How to reach me elsprimavera55@gmail.com
 
-###
 
-<h3 align="left">👨‍💻  About Me</h3>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elsprimavera55@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iprimavera&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iprimavera&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iprimavera&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I'm Ivan from Spain
-- 🌱 I’m currently learning **Computer Architecture**
-- 👨‍💻 here is my web: [iprimavera.github.io](https://iprimavera.github.io)
-- 📫 How to reach me **elsprimavera55@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iprimavera&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="79" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="79" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="79" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="79" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="79" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=md" height="79" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="79" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="79" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="79" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="79" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="79" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="79" alt="intellijidea logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iprimavera&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iprimavera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
