@@ -10,8 +10,3 @@ I'm Ivan from Spain<br><br>    🌱 I’m currently learning Computer Architectu
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=iprimavera&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iprimavera&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iprimavera&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
